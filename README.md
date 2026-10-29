@@ -1,3 +1,2 @@
 # practica-git
-Practica de Git y Bah para el midterm
-
+Repositorio de practica GIT y Bash para examen parcial
