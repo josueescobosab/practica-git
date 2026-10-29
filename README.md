@@ -1,2 +1,3 @@
 # practica-git
-Practica para el examen de Intro a la Programacion
+Practica de Git y Bah para el midterm
+
