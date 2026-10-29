@@ -1,2 +1,2 @@
 # practica-git
-  Repositorio de practica para el examen parcial
+Repositorio de practica GIT y Bash para examen parcial
